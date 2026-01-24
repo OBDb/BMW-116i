@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_1_Series"
+
 generations:
   - name: "First Generation (E87/E81)"
     start_year: 2004
@@ -11,5 +14,10 @@ generations:
 
   - name: "Third Generation (F40)"
     start_year: 2019
+    end_year: 2024
+    description: "The 116i is based on the F40 platform and represents BMW's shift to front-wheel drive for the 1 Series. It features a turbocharged 1.5L three-cylinder engine producing approximately 109-116 HP depending on the market. Available exclusively as a five-door hatchback, it offers improved interior space due to the transverse engine layout. The 116i benefits from BMW's latest technology including digital instrumentation options and advanced driver assistance systems, while still focusing on delivering an engaging driving experience despite the platform change."
+
+  - name: "Fourth Generation (F70)"
+    start_year: 2025
     end_year: null
-    description: "The current 116i is based on the F40 platform and represents BMW's shift to front-wheel drive for the 1 Series. It features a turbocharged 1.5L three-cylinder engine producing approximately 109-116 HP depending on the market. Available exclusively as a five-door hatchback, it offers improved interior space due to the transverse engine layout. The 116i benefits from BMW's latest technology including digital instrumentation options and advanced driver assistance systems, while still focusing on delivering an engaging driving experience despite the platform change."
+    description: "The fourth-generation 116i is based on the F70 platform and represents a comprehensive refresh of the F40 model, rather than a complete redesign. Unveiled in June 2024 and beginning production in late 2024 for the 2025 model year, the F70 continues the front-wheel drive layout on the UKL2 platform. Available exclusively as a five-door hatchback, it features updated styling with a distinctive new grille design, improved interior technology, and enhanced driver assistance systems while maintaining the turbocharged three-cylinder efficiency and performance characteristics that define the entry-level 116i variant."
