@@ -4,8 +4,8 @@ references:
 generations:
   - name: "First Generation (E87/E81)"
     start_year: 2004
-    end_year: 2011
-    description: "The first BMW 116i was part of the inaugural 1 Series generation, available in both five-door (E87) and later three-door (E81) hatchback body styles. It was powered by a naturally aspirated 1.6L inline-four engine producing approximately 115 HP, paired with either a manual or automatic transmission. As an entry-level model, it offered BMW's renowned rear-wheel drive handling dynamics in an affordable package, though with more modest performance than its higher-powered siblings."
+    end_year: 2013
+    description: "The first BMW 116i was part of the inaugural 1 Series generation, available in both five-door (E87) and later three-door (E81) hatchback body styles. It was powered by a naturally aspirated 1.6L inline-four engine producing approximately 115 HP, paired with either a manual or automatic transmission. As an entry-level model, it offered BMW's renowned rear-wheel drive handling dynamics in an affordable package, though with more modest performance than its higher-powered siblings. This generation was produced from 2004 to 2013."
 
   - name: "Second Generation (F20/F21)"
     start_year: 2011
